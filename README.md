@@ -10,12 +10,7 @@ Create your own portfolio fastly with no library or framework, just Html CSS and
 -->
 
 <!-- Badges -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <h4>
     <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
