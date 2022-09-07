@@ -1,3 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins";
+}
+
+h1 {
+  text-align: center;
+}
+
+header {
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  background-color: none;
+}
+
+.navbar {
+  position: absolute;
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(2,0,36,1) 0%, rgba(74,74,218,1) 35%, rgba(63,146,159,1) 78%, rgba(0,212,255,1) 100%);
+}
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar .logo {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.navbar .nav-link ul {
+  display: flex;
+    list-style-type: none;
+}
+
+.navbar .nav-link ul li {
+  margin: 0 30px;
+}
+
+.navbar .nav-link ul li.active a{
+  color:  white;
+  font-weight: 600;
+}
+
+
 .container {
   background-color:#eee;
   width: 1000px;
@@ -19,7 +70,6 @@
   font-size: 20px;
   font-family: sans-serif;
   color: #fff;
-  
   &--1 {
     background-color: orangered;
     /*grid-row-start: 2;
@@ -30,7 +80,6 @@
     grid-column: 2 / 3;
 
   }
-  
   &--2 {
      background-color: yellowgreen;
      //grid-column: 2 / span 2;
