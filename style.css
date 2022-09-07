@@ -22,7 +22,8 @@ header {
   justify-content: space-between;
   width: 100%;
   box-sizing: border-box;
-    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(2,0,36,1) 0%, rgba(74,74,218,1) 35%, rgba(63,146,159,1) 78%, rgba(0,212,255,1) 100%);
+  background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(38,51,61,1) 0%, rgba(0,212,255,1) 0%, rgba(63,146,159,1) 0%, rgba(32,32,47,1) 0%);
 }
 .navbar a {
   color: white;
